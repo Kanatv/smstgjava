@@ -11,7 +11,7 @@ const scope_scene = all_scenes.scope_scene()
 const test_flood = all_scenes.test_flood_scene()
 
 //Вместо your telegram-bot token введите ваш telegram-token в кавычках
-const bot = new Telegraf(your telegram-bot token)
+const bot = new Telegraf(1399499043:AAGSbQx-CLxJ3Ct8o8FS8ICkDnNQbmVXMQ8)
 const stage = new Stage([single_scene, scope_scene, greater_scene, test_flood])
 
 bot.use(session())
